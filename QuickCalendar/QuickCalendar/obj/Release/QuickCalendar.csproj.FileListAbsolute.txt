@@ -1,0 +1,15 @@
+c:\users\bebell\documents\visual studio 2017\Projects\QuickCalendar\QuickCalendar\bin\Release\QuickCalendar.exe.config
+c:\users\bebell\documents\visual studio 2017\Projects\QuickCalendar\QuickCalendar\bin\Release\QuickCalendar.exe
+c:\users\bebell\documents\visual studio 2017\Projects\QuickCalendar\QuickCalendar\bin\Release\QuickCalendar.pdb
+c:\users\bebell\documents\visual studio 2017\Projects\QuickCalendar\QuickCalendar\obj\Release\QuickCalendar.csproj.ResolveComReference.cache
+c:\users\bebell\documents\visual studio 2017\Projects\QuickCalendar\QuickCalendar\obj\Release\QuickCalendar.Form1.resources
+c:\users\bebell\documents\visual studio 2017\Projects\QuickCalendar\QuickCalendar\obj\Release\QuickCalendar.Properties.Resources.resources
+c:\users\bebell\documents\visual studio 2017\Projects\QuickCalendar\QuickCalendar\obj\Release\QuickCalendar.csproj.GenerateResource.Cache
+c:\users\bebell\documents\visual studio 2017\Projects\QuickCalendar\QuickCalendar\obj\Release\QuickCalendar.csproj.CoreCompileInputs.cache
+c:\users\bebell\documents\visual studio 2017\Projects\QuickCalendar\QuickCalendar\obj\Release\QuickCalendar.exe
+c:\users\bebell\documents\visual studio 2017\Projects\QuickCalendar\QuickCalendar\obj\Release\QuickCalendar.pdb
+c:\users\bebell\documents\visual studio 2017\Projects\QuickCalendar\QuickCalendar\bin\Release\QuickCalendar.exe.manifest
+c:\users\bebell\documents\visual studio 2017\Projects\QuickCalendar\QuickCalendar\bin\Release\QuickCalendar.application
+c:\users\bebell\documents\visual studio 2017\Projects\QuickCalendar\QuickCalendar\obj\Release\QuickCalendar.TrustInfo.xml
+c:\users\bebell\documents\visual studio 2017\Projects\QuickCalendar\QuickCalendar\obj\Release\QuickCalendar.exe.manifest
+c:\users\bebell\documents\visual studio 2017\Projects\QuickCalendar\QuickCalendar\obj\Release\QuickCalendar.application

@@ -1,0 +1,87 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="QuickCalendar.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="button1TimePadding" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+    <Setting Name="button2TimePadding" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+    <Setting Name="button3TimePadding" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+    <Setting Name="button1Wording" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Eatting Lunch. Call me on my cell if it's an emergency</Value>
+    </Setting>
+    <Setting Name="button2Wording" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Walking, call me on my cell if you need me.  If I'm not back in 15 minutes, something must be wrong. For quick questions I have slack mobile</Value>
+    </Setting>
+    <Setting Name="button3Wording" Type="System.String" Scope="User">
+      <Value Profile="(Default)">In a meeting, call me on my cell if it's an emergency.  For quick questions I have slack mobile</Value>
+    </Setting>
+    <Setting Name="button1ShowAs" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">3</Value>
+    </Setting>
+    <Setting Name="button2ShowAs" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="button3ShowAs" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="button1Subject" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Lunch</Value>
+    </Setting>
+    <Setting Name="button2Subject" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Walk</Value>
+    </Setting>
+    <Setting Name="button3Subject" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Meeting</Value>
+    </Setting>
+    <Setting Name="button1Location" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="button2Location" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="button3Location" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="button1Title" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&amp;Lunch</Value>
+    </Setting>
+    <Setting Name="button2Title" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&amp;Walk</Value>
+    </Setting>
+    <Setting Name="button3Title" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&amp;Meeting</Value>
+    </Setting>
+    <Setting Name="button1Pic" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="button2Pic" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="button3Pic" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="button1Time" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">60</Value>
+    </Setting>
+    <Setting Name="button2Time" Type="System.String" Scope="User">
+      <Value Profile="(Default)">15</Value>
+    </Setting>
+    <Setting Name="button3Time" Type="System.String" Scope="User">
+      <Value Profile="(Default)">60</Value>
+    </Setting>
+    <Setting Name="button1UseTimePadding" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="button2UseTimePadding" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="button3UseTimePadding" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

@@ -1,0 +1,17 @@
+C:\Users\bebell\Documents\Visual Studio 2017\Projects\QuickCalendar\QuickCalendar\bin\Release\QuickCalendar.exe.config
+C:\Users\bebell\Documents\Visual Studio 2017\Projects\QuickCalendar\QuickCalendar\bin\Release\QuickCalendar.exe.manifest
+C:\Users\bebell\Documents\Visual Studio 2017\Projects\QuickCalendar\QuickCalendar\bin\Release\QuickCalendar.application
+C:\Users\bebell\Documents\Visual Studio 2017\Projects\QuickCalendar\QuickCalendar\bin\Release\QuickCalendar.exe
+C:\Users\bebell\Documents\Visual Studio 2017\Projects\QuickCalendar\QuickCalendar\bin\Release\QuickCalendar.pdb
+C:\Users\bebell\Documents\Visual Studio 2017\Projects\QuickCalendar\QuickCalendar\obj\Release\QuickCalendarWidget.csprojResolveAssemblyReference.cache
+C:\Users\bebell\Documents\Visual Studio 2017\Projects\QuickCalendar\QuickCalendar\obj\Release\QuickCalendarWidget.csproj.ResolveComReference.cache
+C:\Users\bebell\Documents\Visual Studio 2017\Projects\QuickCalendar\QuickCalendar\obj\Release\QuickCalendar.frmDesktopWidget.resources
+C:\Users\bebell\Documents\Visual Studio 2017\Projects\QuickCalendar\QuickCalendar\obj\Release\QuickCalendar.frmSettings.resources
+C:\Users\bebell\Documents\Visual Studio 2017\Projects\QuickCalendar\QuickCalendar\obj\Release\QuickCalendar.Properties.Resources.resources
+C:\Users\bebell\Documents\Visual Studio 2017\Projects\QuickCalendar\QuickCalendar\obj\Release\QuickCalendarWidget.csproj.GenerateResource.cache
+C:\Users\bebell\Documents\Visual Studio 2017\Projects\QuickCalendar\QuickCalendar\obj\Release\QuickCalendarWidget.csproj.CoreCompileInputs.cache
+C:\Users\bebell\Documents\Visual Studio 2017\Projects\QuickCalendar\QuickCalendar\obj\Release\QuickCalendar.TrustInfo.xml
+C:\Users\bebell\Documents\Visual Studio 2017\Projects\QuickCalendar\QuickCalendar\obj\Release\QuickCalendar.exe.manifest
+C:\Users\bebell\Documents\Visual Studio 2017\Projects\QuickCalendar\QuickCalendar\obj\Release\QuickCalendar.application
+C:\Users\bebell\Documents\Visual Studio 2017\Projects\QuickCalendar\QuickCalendar\obj\Release\QuickCalendar.exe
+C:\Users\bebell\Documents\Visual Studio 2017\Projects\QuickCalendar\QuickCalendar\obj\Release\QuickCalendar.pdb

@@ -1,0 +1,17 @@
+C:\Users\bebell\Documents\Visual Studio 2017\Projects\QuickCalendar\QuickCalendar\bin\Debug\QuickCalendar.exe.config
+C:\Users\bebell\Documents\Visual Studio 2017\Projects\QuickCalendar\QuickCalendar\bin\Debug\QuickCalendar.exe.manifest
+C:\Users\bebell\Documents\Visual Studio 2017\Projects\QuickCalendar\QuickCalendar\bin\Debug\QuickCalendar.application
+C:\Users\bebell\Documents\Visual Studio 2017\Projects\QuickCalendar\QuickCalendar\bin\Debug\QuickCalendar.exe
+C:\Users\bebell\Documents\Visual Studio 2017\Projects\QuickCalendar\QuickCalendar\bin\Debug\QuickCalendar.pdb
+C:\Users\bebell\Documents\Visual Studio 2017\Projects\QuickCalendar\QuickCalendar\obj\Debug\QuickCalendarWidget.csprojResolveAssemblyReference.cache
+C:\Users\bebell\Documents\Visual Studio 2017\Projects\QuickCalendar\QuickCalendar\obj\Debug\QuickCalendarWidget.csproj.ResolveComReference.cache
+C:\Users\bebell\Documents\Visual Studio 2017\Projects\QuickCalendar\QuickCalendar\obj\Debug\QuickCalendar.frmDesktopWidget.resources
+C:\Users\bebell\Documents\Visual Studio 2017\Projects\QuickCalendar\QuickCalendar\obj\Debug\QuickCalendar.Properties.Resources.resources
+C:\Users\bebell\Documents\Visual Studio 2017\Projects\QuickCalendar\QuickCalendar\obj\Debug\QuickCalendarWidget.csproj.GenerateResource.cache
+C:\Users\bebell\Documents\Visual Studio 2017\Projects\QuickCalendar\QuickCalendar\obj\Debug\QuickCalendarWidget.csproj.CoreCompileInputs.cache
+C:\Users\bebell\Documents\Visual Studio 2017\Projects\QuickCalendar\QuickCalendar\obj\Debug\QuickCalendar.TrustInfo.xml
+C:\Users\bebell\Documents\Visual Studio 2017\Projects\QuickCalendar\QuickCalendar\obj\Debug\QuickCalendar.exe.manifest
+C:\Users\bebell\Documents\Visual Studio 2017\Projects\QuickCalendar\QuickCalendar\obj\Debug\QuickCalendar.application
+C:\Users\bebell\Documents\Visual Studio 2017\Projects\QuickCalendar\QuickCalendar\obj\Debug\QuickCalendar.exe
+C:\Users\bebell\Documents\Visual Studio 2017\Projects\QuickCalendar\QuickCalendar\obj\Debug\QuickCalendar.pdb
+C:\Users\bebell\Documents\Visual Studio 2017\Projects\QuickCalendar\QuickCalendar\obj\Debug\QuickCalendar.frmSettings.resources
